@@ -6,7 +6,7 @@
 
 </div>
 
-# 💫 About Me:
+## About Me:
 
 ### Engineering Student | Backend Focused | Creative Problem Solver
 
@@ -20,7 +20,7 @@ I am particularly fascinated by how data can be leveraged to optimize business p
 
 ---
 
-## 💻 Tech Stack:
+## Tech Stack:
 
 ### Backend & AI (Core)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Gemini API](https://img.shields.io/badge/Gemini%20AI-8E75C2?style=for-the-badge&logo=google-gemini&logoColor=white)
@@ -33,7 +33,7 @@ I am particularly fascinated by how data can be leveraged to optimize business p
 
 ---
 
-## 📊 GitHub Stats:
+## GitHub Stats:
 
 <div align="center">
 
