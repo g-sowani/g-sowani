@@ -47,4 +47,4 @@ I am particularly fascinated by how data can be leveraged to optimize business p
 When I’m not at my terminal, you’ll find me practicing **Kathak**, getting lost in a **Sci-Fi movie marathon**, or reading books on philosophy and fiction.
 
 ## 🌐 Connect with Me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]([https://linkedin.com/in/YOUR_LINKEDIN](https://www.linkedin.com/in/gargee-sowani-b3012627a/)) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:gargeesowani@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/gargee-sowani-b3012627a/)) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:gargeesowani@gmail.com)
