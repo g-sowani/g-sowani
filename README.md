@@ -2,8 +2,6 @@
 
 # GARGEE SOWANI
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=400&size=20&pause=1000&color=36BCF7&center=true&vCenter=true&width=1000&lines=Full-Stack+Developer+|+Agentic+AI+Explorer+|+Data+Science+Enthusiast)](https://git.io/typing-svg)
-
 </div>
 
 ## About Me:
